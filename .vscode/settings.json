@@ -5,6 +5,7 @@
         "corecss",
         "corejs",
         "djnago",
+        "postloadjs",
         "pycache",
         "socialaccount"
     ]
