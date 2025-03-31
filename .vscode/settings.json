@@ -4,6 +4,7 @@
         "allauth",
         "alvu",
         "asgi",
+        "autohide",
         "Bulma",
         "corecss",
         "corejs",
