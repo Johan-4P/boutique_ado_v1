@@ -1,3 +1,30 @@
+.StripeElement,
+.stripe-style-input {
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 10px 12px;
+    border: 1px solid #000;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .1);
+    transition: box-shadow .2s ease-in-out;
+}
+.StripeElement--focus,
+.stripe-style-input:focus,
+.stripe-style-input:active {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .2);
+    border-color: #000;
+}
+.StripeElement--invalid {
+    border-color: #fa755a;
+}
+.StripeElement--webkit-autofill {
+    background-color: #fefde5 !important;
+}
+
+.stripe-style-input::placeholder {
+    color: #aab7c4;
+    font-size: 16px;
+}
+
 .fieldset-label {
     position: relative;
     right: .5rem;
