@@ -4,18 +4,27 @@
         "allauth",
         "alvu",
         "asgi",
+        "asgiref",
         "autohide",
         "Bulma",
+        "certifi",
+        "cffi",
         "corecss",
         "corejs",
         "csrfmiddlewaretoken",
+        "defusedxml",
         "djnago",
         "forloop",
         "Homeware",
+        "idna",
         "lineitem",
         "lineitems",
         "postloadjs",
         "pycache",
-        "socialaccount"
+        "pycparser",
+        "pytz",
+        "socialaccount",
+        "sqlparse",
+        "urllib"
     ]
 }
