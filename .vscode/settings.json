@@ -26,6 +26,7 @@
         "pytz",
         "socialaccount",
         "sqlparse",
-        "urllib"
+        "urllib",
+        "venv"
     ]
 }
