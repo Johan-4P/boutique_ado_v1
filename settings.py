@@ -56,8 +56,8 @@ ROOT_URLCONF = 'boutique_ado_v1.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
-        'APP_DIRS': True,
+        'DIRS': [],  # Ensure this is empty or includes custom template directories
+        'APP_DIRS': True,  # This must be True to find app-specific templates
         'OPTIONS': {
             'context_processors': [
                 'django.template.context_processors.debug',
