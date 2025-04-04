@@ -12,6 +12,7 @@
         "corecss",
         "corejs",
         "csrfmiddlewaretoken",
+        "cust",
         "defusedxml",
         "djnago",
         "forloop",
